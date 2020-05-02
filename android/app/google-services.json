@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "310324354926",
+    "firebase_url": "https://inventorymanagement-d61ef.firebaseio.com",
+    "project_id": "inventorymanagement-d61ef",
+    "storage_bucket": "inventorymanagement-d61ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310324354926:android:7dba66f4e25abf864aab7f",
+        "android_client_info": {
+          "package_name": "com.flutter.smart_inventory_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310324354926-s4b51955sl019kqaje00h8c5cj20nuc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbj9qltHmHA-q7EtPvJh71ebzvFGek-lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310324354926-s4b51955sl019kqaje00h8c5cj20nuc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
